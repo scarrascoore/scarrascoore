@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hi, I'm Shelvy Carrasco Oré</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi, I'm Shelvy Carrasco Oré</b> <img src="https://github.com/scarrascoore/scarrascoore/blob/main/Images/Flyer.gif" width="35"></h1>
 
 <p align="center">
   <a href="./README.md">🇺🇸 English</a> | 
