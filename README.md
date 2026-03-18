@@ -1,6 +1,6 @@
 <h1 align="center">
 <div>
-  <img src="https://github.com/scarrascoore/scarrascoore/blob/main/Images/Flyer-resize.gif" alt="header"></h1>
+  <img src="https://github.com/scarrascoore/scarrascoore/blob/main/Images/Flyer-resize002.gif" width=100% alt="header"></h1>
 </div>
 
 <p align="center">
@@ -30,22 +30,6 @@ I hold a Bachelor's degree in **Systems Engineering and Informatics**, with expe
 🔹 Quality, continuous learning, and collaborative work  
 
 <br>
-
----
-
-## <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="30"> **Professional Profiles**
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/shelvycarrascoore/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Shelvy%20Carrasco%20Or%C3%A9-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://www.credly.com/users/shelvycarrascoore" target="_blank">
-    <img src="https://img.shields.io/badge/Credly-Certifications-orange?style=for-the-badge&logo=credly&logoColor=white"/>
-  </a>
-  <a href="https://g.dev/shelvycarrascoore" target="_blank">
-    <img src="https://img.shields.io/badge/GDG-Developer%20Profile-34A853?style=for-the-badge&logo=google&logoColor=white"/>
-  </a>
-</p>
 
 ---
 
@@ -132,15 +116,6 @@ I hold a Bachelor's degree in **Systems Engineering and Informatics**, with expe
 - Teamwork
 - Collaboration in Agile/Scrum environments
 - Continuous learning
-
----
-
-## <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="35"> **Current Focus**
-
-- Strengthening my backend development skills with **Java + Spring Boot**
-- Building portfolio projects with real-world structure
-- Improving my software architecture and API design practices
-- Showcasing technical projects on GitHub to increase visibility with recruiters
 
 ---
 
