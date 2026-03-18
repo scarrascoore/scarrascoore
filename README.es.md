@@ -9,7 +9,10 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=00C2FF&size=25&center=true&vCenter=true&width=900&height=100&lines=Ingeniero+de+Sistemas+%7C+Backend+Developer+%7C+Analista+de+Sistemas;Java+%7C+Spring+Boot+%7C+Node.js+%7C+React+%7C+PostgreSQL;APIs+REST+%7C+Clean+Architecture+%7C+Hexagonal+Architecture;Aprendizaje+Continuo+%7C+Resoluci%C3%B3n+de+Problemas+%7C+Pasi%C3%B3n+por+la+Tecnolog%C3%ADa" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=F5A327&size=25&center=true&vCenter=true&width=1080&height=100&lines=Ingeniero+de+Sistemas+%7C+Backend+Developer+%7C+Analista+de+Sistemas;Java+%7C+Spring+Boot+%7C+Node.js+%7C+React+%7C+PostgreSQL;APIs+REST+%7C+Clean+Architecture+%7C+Hexagonal+Architecture;Aprendizaje+Continuo+%7C+Resoluci%C3%B3n+de+Problemas" />
+</p>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=scarrascoore&color=orange&abbreviated=true" alt="https://github.com/scarrascoore" />
 </p>
 
 ---
@@ -24,8 +27,6 @@ Soy bachiller en **Ingeniería de Sistemas e Informática**, con experiencia en 
 🔹 Documentación técnica y mejora de sistemas  
 🔹 APIs REST y arquitectura de software  
 🔹 Calidad, aprendizaje continuo y trabajo colaborativo  
-
-<br>
 
 ---
 
