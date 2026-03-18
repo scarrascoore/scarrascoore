@@ -1,4 +1,7 @@
-<h1 align="center"><b>Hola, soy Shelvy Carrasco Oré</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">
+<div>
+  <img src="https://github.com/scarrascoore/scarrascoore/blob/main/Images/Flyer-resize.gif" alt="header"></h1>
+</div>
 
 <p align="center">
   <a href="./README.md">🇺🇸 English</a> | 
@@ -10,22 +13,19 @@
 </p>
 
 ---
-
 ## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> **Sobre mí**
 
-<img align="right" alt="coding" width="280" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+<img align="right" alt="coding" width="280" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGNkd3R6OWtoOWQ1YTdxcGM5cHdocGpiaG55bmNxcjl0aHk1bGx0ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gXr3j6YAClXFfZABn5/giphy.gif">
 
-Soy un profesional de tecnología enfocado en **desarrollo de software, análisis de sistemas, ingeniería backend y diseño de soluciones**.
+Soy bachiller en **Ingeniería de Sistemas e Informática**, con experiencia en **desarrollo backend** y una trayectoria previa de más de **cinco años en soporte TI**. He desarrollado competencias en **resolución de incidencias, documentación técnica y mejora de sistemas**, combinando experiencia práctica con una sólida base académica. Actualmente, me interesa seguir creciendo en **desarrollo backend, análisis de sistemas, diseño de APIs REST y arquitectura de software**, siempre con enfoque en la **calidad** y la **mejora continua**.
 
-Disfruto construir sistemas **estructurados, mantenibles y escalables**, aplicando buenas prácticas de desarrollo, arquitecturas limpias y una forma clara de resolver problemas.
+🔹 Desarrollo backend  
+🔹 Resolución de incidencias y soporte TI  
+🔹 Documentación técnica y mejora de sistemas  
+🔹 APIs REST y arquitectura de software  
+🔹 Calidad, aprendizaje continuo y trabajo colaborativo  
 
-- Desarrollador orientado a backend con interés en sistemas escalables
-- Apasionado por el diseño e implementación de APIs REST
-- Interés en arquitectura de software y diseño estructurado de soluciones
-- Enfocado en aprendizaje continuo y crecimiento profesional
-- Abierto a oportunidades en **Ingeniería de Sistemas**, **Análisis de Sistemas** y **Desarrollo de Software**
-
-<br><br>
+<br>
 
 ---
 
@@ -140,7 +140,10 @@ Disfruto construir sistemas **estructurados, mantenibles y escalables**, aplican
 
 ---
 
-## <img src="https://media.giphy.com/media/YnBntKOgnUSBkV7bQH/giphy.gif" width="35"> **Conectemos**
+<h2 align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTUwdzFtdXNiaWx0c2RzemRuZnJjYmNrZnN3dWozeDJzZmE0dTBiMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6UbEozsUuERkQ/giphy.gif" width="45" />
+  Conectemos
+</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shelvycarrascoore/" target="_blank">
@@ -161,3 +164,4 @@ Disfruto construir sistemas **estructurados, mantenibles y escalables**, aplican
 ### *"Construyendo soluciones de software con estructura, propósito y crecimiento continuo."*
 
 </div>
+<h2  align="center">💻 Revisa mis repositorios ⬇️ </h2>
