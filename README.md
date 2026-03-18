@@ -1,4 +1,7 @@
-<h1 align="center"><b>Hi, I'm Shelvy Carrasco Oré</b> <img src="https://github.com/scarrascoore/scarrascoore/blob/main/Images/Flyer.gif" width="35"></h1>
+<h1 align="center">
+<div>
+  <img src="https://github.com/scarrascoore/scarrascoore/blob/main/Images/Flyer-resize.gif" alt="header"></h1>
+</div>
 
 <p align="center">
   <a href="./README.md">🇺🇸 English</a> | 
@@ -6,26 +9,24 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=00C2FF&size=25&center=true&vCenter=true&width=900&height=100&lines=Systems+Engineer+%7C+Backend+Developer+%7C+Systems+Analyst;Java+%7C+Spring+Boot+%7C+Node.js+%7C+React+%7C+PostgreSQL;REST+APIs+%7C+Clean+Architecture+%7C+Hexagonal+Architecture;Continuous+Learner+%7C+Problem+Solver+%7C+Tech+Passionate" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=00C2FF&size=25&center=true&vCenter=true&width=900&height=100&lines=Systems+Engineer+%7C+Backend+Developer+%7C+Systems+Analyst;Java+%7C+Spring+Boot+%7C+Node.js+%7C+React+%7C+PostgreSQL;REST+APIs+%7C+Clean+Architecture+%7C+Hexagonal+Architecture;Continuous+Learning+%7C+Problem+Solving+%7C+Passion+for+Technology" />
 </p>
 
 ---
 
-## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> **About me**
+## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> **About Me**
 
-<img align="right" alt="coding" width="280" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+<img align="right" alt="coding" width="280" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGNkd3R6OWtoOWQ1YTdxcGM5cHdocGpiaG55bmNxcjl0aHk1bGx0ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gXr3j6YAClXFfZABn5/giphy.gif">
 
-I am a technology professional focused on **software development, systems analysis, backend engineering, and solution design**.
+I hold a Bachelor's degree in **Systems Engineering and Informatics**, with experience in **backend development** and over **five years of prior experience in IT support**. Throughout my career, I have built strong skills in **incident resolution, technical documentation, and system improvement**, combining hands-on experience with a solid academic foundation. I am currently focused on continuing to grow in **backend development, systems analysis, REST API design, and software architecture**, always with an emphasis on **quality** and **continuous improvement**.
 
-I enjoy building **structured, maintainable, and scalable systems**, applying good development practices, clean architectures, and clear problem-solving approaches.
+🔹 Backend development  
+🔹 Incident resolution and IT support  
+🔹 Technical documentation and system improvement  
+🔹 REST APIs and software architecture  
+🔹 Quality, continuous learning, and collaborative work  
 
-- Backend-oriented developer with interest in scalable systems
-- Passionate about REST API design and implementation
-- Interested in software architecture and structured solution design
-- Focused on continuous learning and professional growth
-- Open to opportunities in **Systems Engineering**, **Systems Analysis**, and **Software Development**
-
-<br><br>
+<br>
 
 ---
 
@@ -110,47 +111,50 @@ I enjoy building **structured, maintainable, and scalable systems**, applying go
 
 ---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> **What I bring**
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> **What I Bring**
 
 - Backend development with **Java, Spring Boot, and Node.js**
-- Frontend integration with **React, TypeScript, and Vite**
-- API design with focus on **clarity, security, and maintainability**
-- Knowledge of **authentication and security flows**
-- Systems analysis and modeling for structured solution design
-- Interest in clean code, architecture, and best practices
+- Frontend integration using **React, TypeScript, and Vite**
+- API design with a focus on **clarity, security, and maintainability**
+- Understanding of **authentication and security flows**
+- Systems analysis and modeling for building structured solutions
+- Strong interest in clean code, architecture, and best practices
 
 ---
 
 ## <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="35"> **Soft Skills**
 
 - Leadership
-- Assertive Communication
+- Assertive communication
 - Teamwork
-- Collaboration in Agile/Scrum Environments
-- Continuous Learning
+- Collaboration in Agile/Scrum environments
+- Continuous learning
 
 ---
 
 ## <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="35"> **Current Focus**
 
-- Strengthening backend development with **Java + Spring Boot**
+- Strengthening my backend development skills with **Java + Spring Boot**
 - Building portfolio projects with real-world structure
-- Improving software architecture and API design practices
-- Showcasing technical projects on GitHub for recruiter visibility
+- Improving my software architecture and API design practices
+- Showcasing technical projects on GitHub to increase visibility with recruiters
 
 ---
 
-## <img src="https://media.giphy.com/media/YnBntKOgnUSBkV7bQH/giphy.gif" width="35"> **Let's Connect**
+<h2 align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTUwdzFtdXNiaWx0c2RzemRuZnJjYmNrZnN3dWozeDJzZmE0dTBiMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6UbEozsUuERkQ/giphy.gif" width="45" />
+  Let's Connect
+</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shelvycarrascoore/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect_with_me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://www.credly.com/users/shelvycarrascoore" target="_blank">
-    <img src="https://img.shields.io/badge/Credly-View_Certifications-orange?style=for-the-badge&logo=credly&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Credly-View%20certifications-orange?style=for-the-badge&logo=credly&logoColor=white"/>
   </a>
   <a href="https://g.dev/shelvycarrascoore" target="_blank">
-    <img src="https://img.shields.io/badge/GDG-View_Profile-34A853?style=for-the-badge&logo=google&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GDG-View%20profile-34A853?style=for-the-badge&logo=google&logoColor=white"/>
   </a>
 </p>
 
@@ -161,3 +165,4 @@ I enjoy building **structured, maintainable, and scalable systems**, applying go
 ### *"Building software solutions with structure, purpose, and continuous growth."*
 
 </div>
+<h2 align="center">💻 Check out my repositories below ⬇️</h2>
