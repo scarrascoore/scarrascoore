@@ -9,7 +9,10 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=00C2FF&size=25&center=true&vCenter=true&width=900&height=100&lines=Systems+Engineer+%7C+Backend+Developer+%7C+Systems+Analyst;Java+%7C+Spring+Boot+%7C+Node.js+%7C+React+%7C+PostgreSQL;REST+APIs+%7C+Clean+Architecture+%7C+Hexagonal+Architecture;Continuous+Learning+%7C+Problem+Solving+%7C+Passion+for+Technology" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=F5A327&size=25&center=true&vCenter=true&width=1080&height=100&lines=Systems+Engineer+%7C+Backend+Developer+%7C+Systems+Analyst;Java+%7C+Spring+Boot+%7C+Node.js+%7C+React+%7C+PostgreSQL;REST+APIs+%7C+Clean+Architecture+%7C+Hexagonal+Architecture;Continuous+Learning+%7C+Problem+Solving" />
+</p>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=scarrascoore&color=orange&abbreviated=true" alt="https://github.com/scarrascoore" />
 </p>
 
 ---
