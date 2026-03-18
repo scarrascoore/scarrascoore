@@ -1,6 +1,6 @@
 <h1 align="center">
 <div>
-  <img src="https://github.com/scarrascoore/scarrascoore/blob/main/Images/Flyer-resize.gif" alt="header"></h1>
+  <img src="https://github.com/scarrascoore/scarrascoore/blob/main/Images/Flyer-resize002.gif" alt="header"></h1>
 </div>
 
 <p align="center">
@@ -27,22 +27,6 @@ Soy bachiller en **Ingeniería de Sistemas e Informática**, con experiencia en 
 🔹 Documentación técnica y mejora de sistemas  
 🔹 APIs REST y arquitectura de software  
 🔹 Calidad, aprendizaje continuo y trabajo colaborativo  
-
----
-
-## <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="30"> **Perfiles profesionales**
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/shelvycarrascoore/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Shelvy%20Carrasco%20Or%C3%A9-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://www.credly.com/users/shelvycarrascoore" target="_blank">
-    <img src="https://img.shields.io/badge/Credly-Certificaciones-orange?style=for-the-badge&logo=credly&logoColor=white"/>
-  </a>
-  <a href="https://g.dev/shelvycarrascoore" target="_blank">
-    <img src="https://img.shields.io/badge/GDG-Perfil%20de%20Desarrollador-34A853?style=for-the-badge&logo=google&logoColor=white"/>
-  </a>
-</p>
 
 ---
 
@@ -129,15 +113,6 @@ Soy bachiller en **Ingeniería de Sistemas e Informática**, con experiencia en 
 - Trabajo en equipo
 - Colaboración en entornos Agile/Scrum
 - Aprendizaje continuo
-
----
-
-## <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="35"> **Enfoque actual**
-
-- Fortalecer mi desarrollo backend con **Java + Spring Boot**
-- Construir proyectos de portafolio con estructura real
-- Mejorar prácticas de arquitectura de software y diseño de APIs
-- Mostrar proyectos técnicos en GitHub para mayor visibilidad ante reclutadores
 
 ---
 
